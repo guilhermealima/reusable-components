@@ -14,7 +14,7 @@ First step was to create a reusable button component, following the user stories
 
 There was also a Figma prototype sketch which I followed for design guidelines. The NavBar of it was not mandatory, but I design it any way, it will make the user goes to the Input page as soon as I finish the second part of the challenge, which is to create a Input reusable component.
 
-You can check the Figma Mockup [here] (https://www.figma.com/files/recent?fuid=1149348168886486537).
+You can check the Figma Mockup [here](https://www.figma.com/files/recent?fuid=1149348168886486537).
 
 Follows below a list of Technologies used in this project:
 
