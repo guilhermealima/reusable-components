@@ -4,9 +4,6 @@ import Button from './Components/Button';
 import NavBar from './Components/NavBar';
 
 function App() {
-
-  const defaultVariant = "outline";
-
   return (
 
     <section>
@@ -73,10 +70,6 @@ function App() {
           </footer>
         </section>
       </section>
-
-
-      {/* TODO - Navbar */}
-      {/* TODO - Buttons */}
     </section>
   );
 }
